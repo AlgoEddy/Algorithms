@@ -1,3 +1,8 @@
+/*
+Kadane's algorithm lets you find the largest contiguous subarray of an array
+in O(n) time and O(1) space.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
